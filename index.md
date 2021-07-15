@@ -4,7 +4,7 @@ Niu Zhi
 ## Intro
 
 Most perople call me small Niu. I work @ ZTE, where I focus on Penetration testing, Code inspection and Code audit.
-I have a Master Degree from Chongqing University(CQU).
+I have a Master Degree from Chongqing University(CQU).I passed the following certification CCSK,CISP-PTE,CISSP.
 
 ### Research Interests
 
