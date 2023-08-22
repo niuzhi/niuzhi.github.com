@@ -30,6 +30,7 @@ Atomkraft:https://github.com/informalsystems/atomkraft
 PGO:https://github.com/DistCompiler/pgo
 
 # CVE vulnerabilities found:
-  1.CVE-2020-24804   
-    https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-24804
-    https://github.com/cms-dev/cms/issues/1160
+
+1.CVE-2020-24804   
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-24804
+https://github.com/cms-dev/cms/issues/1160
